@@ -1,0 +1,12 @@
+selenium-automation/
+├── tests/
+│   ├── test_title.py
+│   ├── test_login.py
+│   └── test_cart.py
+├── utils/
+│   ├── driver.py
+│   ├── login_utils.py
+│   ├── cart_utils.py
+│   └── title_utils.py
+├── requirements.txt
+└── README.md
